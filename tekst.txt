@@ -1,0 +1,15 @@
+W3D2-3
+
+- heel veel json
+- 200
+
+-
+{
+    "Response": "False",
+    "Error": "No API key provided."
+}
+
+-401Unauthorized
+
+-200
+-en een database
